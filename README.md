@@ -1,7 +1,7 @@
 # Address Book
 
 #### A simple Address Book application to manage contacts, April 2025  
-#### By **Your Name**
+#### By **Mutethya Nzioka**
 
 ## Description
 
@@ -11,7 +11,7 @@ The **Address Book** application allows users to manage their contacts. Users ca
 
 * Clone the repository to your local machine:
   ```bash
-  git clone https://github.com/yourusername/address-book.git
+  git clone https://github.com/Mutethya-a/address-book.git
   ```
 
 * Navigate into the project folder:
@@ -38,10 +38,10 @@ No additional setup or dependencies are required. This is a simple client-side a
 
 ## Support and Contact Details
 
-For any issues, questions, or feedback, feel free to contact me at **your.email@example.com**. Contributions to improve the app are welcome!
+For any issues, questions, or feedback, feel free to contact me at **sashamarriee@gmail.com**. Contributions to improve the app are welcome!
 
 ### License
 
 *MIT License*
 
-Copyright (c) 2025 **Your Name**
+Copyright (c) 2025 **Mutethya Nzioka**
