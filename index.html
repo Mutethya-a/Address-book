@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Address Book</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./Styles/styles.css">
+  <script src="./src/script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Address Book</h1>
+
+    <form id="contactForm">
+      <input type="text" id="name" placeholder="Full Name" required>
+      <input type="text" id="phone" placeholder="Phone Number" required>
+      <input type="email" id="email" placeholder="Email Address" required>
+      <button type="submit">Add Contact</button>
+    </form>
+
+    <ul id="contactList"></ul>
+  </div>
+
+</body>
+</html>

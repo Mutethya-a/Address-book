@@ -1,0 +1,73 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #2C3E50;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #2D3C54;
+    padding: 2rem;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: #F5A7B8;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+input {
+    padding: 0.8rem;
+    border: 1px solid #555;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: #3B4A63;
+    color: #F5F5F5;
+}
+
+button {
+    padding: 0.8rem;
+    background-color: #F5A7B8;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    transition: background 0.3 
+}
+
+#contactList {
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+  }
+  
+  #contactList li {
+    background: #34495E;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 1rem;
+    color: #EAEAEA;
+  }
+  
+  #contactList li span {
+    display: block;
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #B0B0B0;
+  }
